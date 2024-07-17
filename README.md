@@ -23,3 +23,15 @@ Un **desarrollador FullStack** con conocimientos en el **Front End** y en el **B
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,py,expressjs,nodejs,mysql,npm,git,github,vscode,vercel,postman,windows,stackoverflow&perline=13)](#)
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
+
+[![Matias github stats](https://bad-apple-github-readme.vercel.app/api?username=maybe9999&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+
+[![Top lenguajes](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=maybe9999&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+[![Mi contribucion](https://streak-stats.demolab.com/?user=maybe9999&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Matias%20dev&section=footer&reversal=true&textBg=false&fontAlign=50&animation=twinkling" width="100%">
+</p>
