@@ -1,6 +1,6 @@
 # Hola, Soy Matias.
 
-Un **desarrollador FullStack** con conocimientos en el **Front End** y en el **Back End**, hago aplicaciones web completas que sean responsivas, amigables con el usuario.
+Un **desarrollador FullStack** con conocimientos en el **Front End** y en el **Back End**, hago aplicaciones web responsivas y amigables con el usuario(single page, cms).
 
 - Estoy abierto a proyectos colaborativos
 - Puedes contactarme en:
