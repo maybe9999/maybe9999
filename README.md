@@ -41,6 +41,11 @@ Un **desarrollador FullStack** con conocimientos en el **Front End** y en el **B
 </p>
 
 <p align="center">
+  Contador de visualizaciones<br>
+  <img src="https://profile-counter.glitch.me/maybe9999/count.svg"/>
+</p>
+
+<p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Matias%20dev&section=footer&reversal=true&textBg=false&fontAlign=50&animation=twinkling" width="100%">
 </p>
 
