@@ -13,6 +13,9 @@ Un **desarrollador FullStack** con conocimientos en el **Front End** y en el **B
 ## Estoy trabajando en:
 - [Portafolio-personal (WebSite personal)](https://github.com/maybe9999/dev-matias)
 
+## Estoy enfocando mi aprendizaje en:
+- [React](https://react.dev/) - [Proyecto donde aplico lo aprendido](https://github.com/maybe9999/Learn-React-with-project)
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Mis proyectos mas recientes:
 
 ### Web:
