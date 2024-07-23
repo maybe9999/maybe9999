@@ -3,13 +3,14 @@
 Un **desarrollador FullStack** con conocimientos en el **Front End** y en el **Back End**, hago aplicaciones web responsivas y amigables con el usuario(single page, cms).
 
 - Estoy abierto a proyectos colaborativos
-- Puedes contactarme en:
-</br><a href="#" title="Portfolio"><img alt="Portafolio web" src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/></a></br>
-<a href="mailto:dasilva.joel2015@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a></br>
-<a href="https://wa.me/+543855851254" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a></br>
-<a href="https://www.linkedin.com/in/matias-dasilva"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> </br>
+- Contacto y enlaces: 
+ <a href="https://dev-matias.vercel.app/" title="Portfolio"><img alt="Portafolio web" src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="27" align="center"/></a>
+ <a href="mailto:dasilva.joel2015@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="27" align="center"/></a>
+ <a href="https://wa.me/+543855851254" title="Whatsapp"><img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="27" align="center"/></a>
+ <a href="https://www.linkedin.com/in/matias-dasilva"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" align="center" /></a>
+ <a href="https://docs.google.com/document/d/1S-D89OxBYDbL8_qQ8KYxD9hq6QIilues4uSLi95-F3c/edit?usp=drive_link"><img alt="CV" title="CV" src="https://img.shields.io/static/v1?message=CV&logo=readdotcv&label=&color=yellow&logoColor=white&labelColor=&style=for-the-badge" height="27" align="center"/></a> </br>
 
-- **NOTA** : Pueds hacer **fork** y **contribuir** a cualquiera de mis proyectos <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
+- **NOTA** : Pueds hacer **fork** y **contribuir** a cualquiera de mis proyectos <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center"/>
 ## Estoy trabajando en:
 - [Portafolio-personal (WebSite personal)](https://github.com/maybe9999/dev-matias)
 
