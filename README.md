@@ -49,7 +49,7 @@ Un **desarrollador FullStack** con conocimientos en el **Front End** y en el **B
 
 <p align="center">
   Contador de visualizaciones<br>
-  <img src="https://profile-counter.glitch.me/maybe9999/count.svg"/>
+  ![](https://komarev.com/ghpvc/?username=your-github-username&base=1000)
 </p>
 
 <p align="center">
