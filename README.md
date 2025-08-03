@@ -49,7 +49,7 @@ Un **desarrollador FullStack** con conocimientos en el **Front End** y en el **B
 
 <p align="center">
   <b><big>Contador de visualizaciones</big></b><br><br>
-  <img src="https://komarev.com/ghpvc/?username=maybe9999&style=for-the-badge&base=790" alt="Contador de visitas">
+  <img src="https://komarev.com/ghpvc/?username=maybe9999&style=for-the-badge&base=790&label=VIEWS" alt="Contador de visitas">
 </p>
 
 
