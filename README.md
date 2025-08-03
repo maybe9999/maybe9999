@@ -47,13 +47,11 @@ Un **desarrollador FullStack** con conocimientos en el **Front End** y en el **B
  <img width="1000" src="snake.svg" alt="snake"/>
 </p>
 
-<p align="center" >
-  <span style="font-size: 20px; font-weight: bold; margin-bottom: 10px; display: inline-block;">
-    Contador de visualizaciones
-  </span></br>
-
-  <img src="https://komarev.com/ghpvc/?username=maybe999&style=for-the-badge&base=790" alt="Contador de visitas">
+<p align="center">
+  <b><big>Contador de visualizaciones</big></b><br><br>
+  <img src="https://komarev.com/ghpvc/?username=maybe9999&style=for-the-badge&base=790" alt="Contador de visitas">
 </p>
+
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Matias%20dev&section=footer&reversal=true&textBg=false&fontAlign=50&animation=twinkling" width="100%">
