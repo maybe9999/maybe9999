@@ -50,7 +50,7 @@ Un **desarrollador FullStack** con conocimientos en el **Front End** y en el **B
 <p align="center">
   Contador de visualizaciones<br>
 
-![](https://komarev.com/ghpvc/?username=maybe999&style=flat-square)
+![](https://komarev.com/ghpvc/?username=maybe999&style=flat-square&base=1000)
 
 </p>
 
