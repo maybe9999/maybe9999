@@ -49,7 +49,9 @@ Un **desarrollador FullStack** con conocimientos en el **Front End** y en el **B
 
 <p align="center">
   Contador de visualizaciones<br>
-[https://komarev.com/ghpvc/?username=your-github-username&base=1000](#)
+  ```markdown
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+```
 
 </p>
 
