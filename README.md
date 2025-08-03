@@ -47,8 +47,10 @@ Un **desarrollador FullStack** con conocimientos en el **Front End** y en el **B
  <img width="1000" src="snake.svg" alt="snake"/>
 </p>
 
-<p align="center">
-  <b>Contador de visualizaciones<b><br>
+<p align="center" >
+  <span style="font-size: 20px; font-weight: bold; margin-bottom: 10px; display: inline-block;">
+    Contador de visualizaciones
+  </span></br>
 
   <img src="https://komarev.com/ghpvc/?username=maybe999&style=for-the-badge&base=790" alt="Contador de visitas">
 </p>
